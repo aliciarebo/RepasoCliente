@@ -1,0 +1,26 @@
+{
+    "PELICULAS":{
+        "PELICULA":[
+            {
+                "TITULO": "Taxi Driver",
+                "DIRECTOR": "Martin Scorsese",
+                "ANO": "1976"
+            },
+            {
+                "TITULO": "Reservoir Dogs",
+                "DIRECTOR": "Quentin Tarantino",
+                "ANO": "1992"
+            },
+            {
+                "TITULO": "Scarface",
+                "DIRECTOR": "Brian De Palma",
+                "ANO": "1983"
+            },
+            {
+                "TITULO": "Paris, Texas",
+                "DIRECTOR": "Wim Wenders",
+                "ANO": "1984"
+            }
+        ]
+    }
+}
